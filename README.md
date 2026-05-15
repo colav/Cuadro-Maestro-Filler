@@ -1,5 +1,5 @@
 ## Project: Research Group Data Integrator
-This script automates the enrichment of a Cuadro Maestro (Master Spreadsheet) by extracting research group codes and cross-referencing them across major academic databases. It streamlines the data collection process from national and international sources into a single consolidated file.
+This script automates the enrichment of a Cuadro Maestro (Accreditation requirement) by extracting research group codes and cross-referencing them across major academic databases. It streamlines the data collection process from national and international sources into a single consolidated file.
 
 Core Functionality
 The script follows a sequential workflow to update your research data:
